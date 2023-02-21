@@ -75,6 +75,6 @@ unvotes |>
 
 ## References
 
-1.  Robinson D (2021). _unvotes: United Nations General Assembly Voting Data_. R package version 0.3.0, <https://CRAN.R-project.org/package=unvotes>.
+1.  Robinson D (2021). *unvotes: United Nations General Assembly Voting Data*. R package version 0.3.0, <https://CRAN.R-project.org/package=unvotes>.
 2.  Erik Voeten "Data and Analyses of Voting in the UN General Assembly" Routledge Handbook of International Organization, edited by Bob Reinalda (published May 27, 2013).
 3.  Much of the analysis has been modeled on the examples presented in the [unvotes package vignette](https://cran.r-project.org/web/packages/unvotes/vignettes/unvotes.html).
